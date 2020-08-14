@@ -1,7 +1,8 @@
-### Hi there 👋
+# K U Z E
+## Hi there 👋
 
 
-Here are some ideas to get you started:
+### So that you know me a little more:
 
 - 🔭 I’m currently studying
 - 🌱 Learning React 
