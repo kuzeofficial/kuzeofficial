@@ -1,4 +1,5 @@
-# Hi, I’m K U Z E
+# Hi, I’m K U Z E 
+![connection terminated](https://twitter.com/kuze_official/photo)
 
 ### So that you know me a little more:
 
@@ -9,4 +10,4 @@
 - 📫 How to reach me: [Twiter](https://twitter.com/kuze_official)
 - 😄 Pronouns: KUZE
 - ⚡ Fun fact: I love computer security as much as programming web pages
-![connection terminated](https://thumbs.gfycat.com/AlertColorlessGander-mobile.mp4)
+
