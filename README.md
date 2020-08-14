@@ -1,5 +1,5 @@
 # Hi, I’m K U Z E 
-![connection terminated](https://twitter.com/kuze_official/photo)
+![WHO AM I](https://pbs.twimg.com/profile_images/1294167836349403137/d-E6KCqU_400x400.jpg)
 
 ### So that you know me a little more:
 
