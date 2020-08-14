@@ -1,6 +1,4 @@
-# K U Z E
-## Hi there 👋
-
+# Hi, I’m K U Z E
 
 ### So that you know me a little more:
 
