@@ -9,3 +9,4 @@
 - 📫 How to reach me: [Twiter](https://twitter.com/kuze_official)
 - 😄 Pronouns: KUZE
 - ⚡ Fun fact: I love computer security as much as programming web pages
+https://github.com/kuzeofficial/kuzeofficial/blob/master/AdoredKindlyGelada-size_restricted.gif
