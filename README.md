@@ -1,5 +1,5 @@
 # Hi, I’m K U Z E 
-![WHO AM I](https://pbs.twimg.com/profile_images/1294167836349403137/d-E6KCqU_400x400.jpg)
+![WHO AM I](https://images.app.goo.gl/K3QLR6y5Y99Urm3L6)
 
 ### So that you know me a little more:
 
