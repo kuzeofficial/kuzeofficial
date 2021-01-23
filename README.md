@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Angular and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://kuze.netlify.app](kuze.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kuze.netlify.app)
 
 - 💬 Ask me about **React, Django, Flask**
 
 - 📫 How to reach me **cristiancomas@hotmail.com**
 
-- 📄 Know about my experiences [https://kuze.netlify.app/skills/](kuze.netlify.app/skills/)
+- 📄 Know about my experiences [kuze.netlify.app/skills/](https://kuze.netlify.app/skills/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
