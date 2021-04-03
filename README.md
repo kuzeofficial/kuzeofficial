@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cristiancomas@hotmail.com**
 
-- 📄 Know about my experiences [kuze.netlify.app/skills/](https://kuze.netlify.app/#skills)
+- 📄 Know about my experiences [cfonseca.netlify.app/skills/](https://cfonseca.netlify.app/#skills)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
