@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **cristiancomas@hotmail.com**
 
-- 📄 Know about my experiences [cfonseca.netlify.app/](https://cfonseca.netlify.app/)
+- 📄 Know about my experiences [cristiancv.netlify.app/](https://cristiancv.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@cristian_devk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@cristian_devk" height="30" width="40" /></a>
+<a href="https://twitter.com/@cristian_devk" target="blank"><img align="center" src="https://cdnlogo.com/logos/t/96/twitter-icon.svg" alt="@cristian_devk" height="30" width="40" /></a>
 <a href="https://discord.gg/7462" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="7462" height="30" width="40" /></a>
 </p>
 
