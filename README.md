@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@cristian_devk" target="blank"><img align="center" src="https://cdnlogo.com/logos/t/96/twitter-icon.svg" alt="@cristian_devk" height="30" width="40" /></a>
 <a href="https://discord.gg/7462" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="7462" height="30" width="40" /></a>
-  <a href="https://t.me/christian_devk" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1322735/screenshots/14088942/media/e4bb862ce77b60e7024de3ad2f8774cb.png?compress=1&resize=400x300" alt="7462" height="40" width="60" /></a>
+  <a href="https://t.me/christian_devk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="7462" height="40" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
