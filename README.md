@@ -4,7 +4,7 @@
 ### A passionate web developer from Cuba
 - 🌱 I’m currently learning **Vue and Typescript**
 - 🔨💻 All of my projects are available at [Portfolio](https://cristianfonseca.netlify.app) => Building
-- 🍕 To hire my services on the Slyk platform [Slyk](https://cristian.slyk.io)
+- 🍕 To hire my services on the [Slyk](https://cristian.slyk.io) platform 
 - 📫 How to reach me **cristiancomas@hotmail.com**
 - 📄 Know about my experiences [Resume Online](https://cristiancv.netlify.app/)
 
