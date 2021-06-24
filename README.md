@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://github.com/kuzeofficial/kuzeofficial/blob/master/Cristian-logo%20(3).png" alt="logo" width=190 align="center" />
+    <a href="cristianfonseca.com"><img src="https://github.com/kuzeofficial/kuzeofficial/blob/master/Cristian-logo%20(3).png" alt="logo" width=190 align="center" /><a>
     <a href="https://www.linkedin.com/in/cristian-fonseca-12184b215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:cristian03022680483@gmail.com?subject=Hola%20Cristian"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/cristian_devk"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
