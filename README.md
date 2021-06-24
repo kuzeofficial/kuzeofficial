@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian Fonseca</h1>
 <h3 align="center">A passionate fullstack developer from Cuba</h3>
+<img src="https://github.com/kuzeofficial/kuzeofficial/blob/master/Cristian-logo%20(3).png" alt="logo" width=190 align="right"/>
 
 - 🌱 I’m currently learning **Angular and Typescript**
 
