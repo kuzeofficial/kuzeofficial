@@ -4,7 +4,7 @@
     <a href="mailto:cristian03022680483@gmail.com?subject=Hola%20Cristian"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/cristian_devk"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<div align='left'>
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca
 ### A passionate web developer from Cuba
 - 🌱 I’m currently learning **Vue and Typescript**
@@ -26,3 +26,4 @@ const cristianfonseca = {
 }
 ```
 ---
+<div>
