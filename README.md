@@ -2,15 +2,15 @@
 ## Hi 👋, I'm Cristian Fonseca
   A passionate web developer from Cuba
 
-- 🌱 I’m currently learning **Angular and Typescript**
+- 🌱 I’m currently learning **Vue and Typescript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://kuze.netlify.app)
+- 🔨💻 All of my projects are available at [Portfolio](https://cristianfonseca.netlify.app) ====> Building
 
-- 💬 Ask me about **React, Next.JS, Node.JS, Javascript, Python**
+- 🍕 To hire my services on the Slyk platform [Slyk](https://cristian.slyk.io)
 
 - 📫 How to reach me **cristiancomas@hotmail.com**
 
-- 📄 Know about my experiences [cristiancv.netlify.app/](https://cristiancv.netlify.app/)
+- 📄 Know about my experiences [Resume Online](https://cristiancv.netlify.app/)
 
 ## About me...
 ```js
