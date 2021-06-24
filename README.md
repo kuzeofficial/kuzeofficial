@@ -7,7 +7,7 @@
     <a href="https://platzi.com/p/fertorresmx/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Master&color=222222&logo=Platzi&logoColor=98CA3F&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Hi,👋, I'm Cristian Fonseca
+## Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca
 ### A passionate web developer from Cuba
 - 🌱 I’m currently learning **Vue and Typescript**
 - 🔨💻 All of my projects are available at [Portfolio](https://cristianfonseca.netlify.app) => Building
