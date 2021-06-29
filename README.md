@@ -8,7 +8,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca
 ### A passionate web developer from Cuba
 - 🌱 I’m currently learning **Vue and Typescript**
-- 🔨� All of my projects are available at [Portfolio](https://cristianfonseca.netlify.app) => Building
+- 🔨 All of my projects are available at [Portfolio](https://cristianfonseca.netlify.app) => Building
 - 🍕 To hire my services on the [Slyk](https://cristian.slyk.io) platform 
 - 📫 How to reach me **cristiancomas@hotmail.com**
 - 📄 Know about my experiences [Resume Online](https://cristiancv.netlify.app/)
