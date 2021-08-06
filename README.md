@@ -17,7 +17,7 @@
 ```js
 const cristianfonseca = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Python"],
+  code: ["JavaScript", "HTML", "CSS", "Python", "Typescript"],
   tools: ["React", "Next.js", "Node.js", "Flask", "Express.JS"],
   links: [{
     telegram: "https://t.me/christian_devk",
