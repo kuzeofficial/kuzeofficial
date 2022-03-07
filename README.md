@@ -6,8 +6,8 @@
 </p>
 
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca
-### A passionate web developer from Cuba
-- 🌱 I’m currently learning **Vue and Typescript**
+### A passionate web developer from Brazil
+- 🌱 I’m currently learning **Java and AWS**
 - 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.com/)
 - 🍕 To hire my services on the [Slyk](https://cristian.slyk.io) platform 
 - 📫 How to reach me **cristiancomas@hotmail.com**
@@ -17,8 +17,8 @@
 ```js
 const cristianfonseca = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Python", "Typescript"],
-  tools: ["React", "Next.js", "Node.js", "Flask", "Express.JS"],
+  code: ["JavaScript", "Python", "Typescript"],
+  tools: ["React", "Next.js", "Node.js", "Flask", "Express.JS", "Vue"],
   links: [{
     telegram: "https://t.me/christian_devk",
     twitter: "https://twitter.com/cristian_devk",
