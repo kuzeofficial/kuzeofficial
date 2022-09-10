@@ -7,7 +7,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca
 ### A passionate web developer from Brazil
 - 🌱 I’m currently learning **Java and AWS**
-- 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.com/)
+- 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.dev/)
 - 🍕 To hire my services on the [Slyk](https://cristian.slyk.io) platform 
 - 📫 How to reach me **cristiancomas@hotmail.com**
 - 📄 Know about my experiences [Resume Online](https://cristiancv.netlify.app/)
