@@ -5,22 +5,23 @@
 </p>
 
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca
-### A passionate web developer from Brazil
+### a Software Engineer on [Evaluar](https://www.evaluar.com/) from Brazil
 - 🌱 I’m currently learning **Java and AWS**
 - 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.dev/)
 - 🍕 To hire my services on the [Slyk](https://cristian.slyk.io) platform 
-- 📫 How to reach me **cristiancomas@hotmail.com**
+- 📫 How to reach me **contact@cristianfonseca.dev**
 - 📄 Know about my experiences [Resume Online](https://cristiancv.netlify.app/)
 
 ## About me...
 ```js
 const cristianfonseca = {
   pronouns: "he/him",
-  code: ["JavaScript", "Python", "Typescript"],
-  tools: ["React", "Next.js", "Node.js", "Flask", "Express.JS", "Vue"],
+  code: ["JavaScript", "Python", "Typescript", "Go"],
+  tools: ["React", "Next.js", "Node.js", "Nuxt", "ServerlessFramework", "Vue"],
   links: [{
     telegram: "https://t.me/christian_devk",
     twitter: "https://twitter.com/cristian_devk",
+    emails: "mailto:contact@cristianfonseca.dev"
   }],
 }
 ```
