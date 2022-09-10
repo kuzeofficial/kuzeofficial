@@ -20,7 +20,6 @@ const cristianfonseca = {
   links: [{
     telegram: "https://t.me/christian_devk",
     twitter: "https://twitter.com/cristian_devk",
-    emails: "mailto:contact@cristianfonseca.dev"
   }],
 }
 ```
