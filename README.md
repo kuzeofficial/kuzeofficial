@@ -9,7 +9,7 @@
 - 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.dev/)
 - 🍕 To hire my services on the [Slyk](https://cristian.slyk.io) platform 
 - 📫 How to reach me **contact@cristianfonseca.dev**
-- 📄 Know about my experiences [Resume Online](https://cristiancv.netlify.app/)
+- 📄 Know about my experiences [Resume Online](https://www.cristianfonseca.dev/download/cv.pdf)
 
 ## About me...
 ```js
