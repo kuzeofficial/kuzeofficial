@@ -7,7 +7,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca a Software Engineer on [Evaluar📈](https://www.evaluar.com/) from Brazil
 - 🌱 I’m currently learning **Java and AWS**
 - 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.dev/)
-- 🍕 To hire my services on the [Slyk](https://cristian.slyk.io) platform 
 - 📫 How to reach me **contact@cristianfonseca.dev**
 - 📄 Know about my experiences [Resume Online](https://www.cristianfonseca.dev/download/cv.pdf)
 
