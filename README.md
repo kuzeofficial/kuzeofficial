@@ -9,7 +9,6 @@
 - 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.dev/)
 - 📫 How to reach me **contact@cristianfonseca.dev**
 - 📄 Know about my experiences [Resume Online](https://www.cristianfonseca.dev/download/cv.pdf)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuzeofficial)
 ## About me...
 ```js
 const cristianfonseca = {
