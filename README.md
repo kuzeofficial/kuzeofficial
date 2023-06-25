@@ -9,4 +9,3 @@
 - 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.dev/)
 - 📫 How to reach me **contact@cristianfonseca.dev** or **cfonsecacomas@gmail.com**
 - 📄 Know about my experiences [Resume Online](https://www.cristianfonseca.dev/download/cv.pdf)
----
