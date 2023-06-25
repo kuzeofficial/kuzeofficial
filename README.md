@@ -4,7 +4,7 @@
     <a href="https://twitter.com/cristian_devk"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca a Software Engineer on [Evaluar📈](https://www.evaluar.com/) from Brazil
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cristian Fonseca a Frontend Engineer on [Evaluar📈](https://www.evaluar.com/) from Brazil
 - 🌱 I’m currently learning **Java and AWS**
 - 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.dev/)
 - 📫 How to reach me **contact@cristianfonseca.dev**
