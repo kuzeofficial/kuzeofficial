@@ -5,7 +5,7 @@
 </p>
 
 ## Hi, I'm Cristian Fonseca a Frontend Engineer at [Evaluar📈](https://www.evaluar.com/) from Brazil 🇧🇷
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust**
 - 🔨 All of my projects are available at [Portfolio](https://www.cristianfonseca.dev/)
 - 📫 How to reach me **contact@cristianfonseca.dev** or **cfonsecacomas@gmail.com**
-- 📄 Know about my experiences [Resume Online](https://www.cristianfonseca.dev/download/cv.pdf)
+- 📄 Know more [about me](https://www.cristianfonseca.dev/about)
