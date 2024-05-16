@@ -9,3 +9,4 @@
 - 📫 How to reach me **contact@cristianfonseca.dev** or **cfonsecacomas@gmail.com**
 - 📄 Know more [about me](https://www.cristianfonseca.dev/about)
   
+<img src = "https://visits.dashroshan.com/Cdq5ki5Oij5PYNgE?label=Profile+Views&shadow=0&swap=1&labelBGColor=3e3e3e&countBGColor=a8a8a8&labelTextColor=ffffff&countTextColor=000000" height = 30px/>
