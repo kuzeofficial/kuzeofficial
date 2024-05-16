@@ -9,4 +9,5 @@
 - 📫 How to reach me **contact@cristianfonseca.dev** or **cfonsecacomas@gmail.com**
 - 📄 Know more [about me](https://www.cristianfonseca.dev/about)
   
-<img src = "https://visits.dashroshan.com/Cdq5ki5Oij5PYNgE?label=Profile+Views&shadow=0&swap=1&labelBGColor=3e3e3e&countBGColor=a8a8a8&labelTextColor=ffffff&countTextColor=000000" height = 30px/>
+[<img src = "https://visits.dashroshan.com/Cdq5ki5Oij5PYNgE?label=Profile+Views&shadow=0&swap=1&labelBGColor=3e3e3e&countBGColor=a8a8a8&labelTextColor=ffffff&countTextColor=000000" height = 30px/>
+](https://visits.dashroshan.com/48rSSl3HXdVpPD945ynI?label=Profile%20View&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF)
