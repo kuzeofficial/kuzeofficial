@@ -8,6 +8,4 @@
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **contact@cristianfonseca.dev** or **cfonsecacomas@gmail.com**
 - 📄 Know more [about me](https://www.cristianfonseca.dev/about)
-  
-<img src = "https://visits.dashroshan.com/sSIBcaDmt2149CfERlGP?label=Profile%20View&shadow=1&shadowOpacity=5&swap=1&labelBGColor=ffffff&countBGColor=55bf59&labelTextColor=696363&countTextColor=fef9f9" height = 30px/>
 
