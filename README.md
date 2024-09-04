@@ -6,6 +6,6 @@
 
 ## Hi, I'm Cristian Fonseca, Lead Frontend Engineer at [Evaluar📈](https://www.evaluar.com/) from Brazil 🇧🇷
 - 🌱 I’m currently learning **Rust**
-- 📫 How to reach me **contact@cristianfonseca.dev** or **cfonsecacomas@gmail.com**
+- 📫 How to reach me: **cfonsecacomas@gmail.com**
 - 📄 Know more [about me](https://www.cristianfonseca.dev/about)
 
