@@ -4,7 +4,7 @@
     <a href="https://twitter.com/cristian_devk"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Hi, I'm Cristian Fonseca a Frontend Engineer at [Evaluar📈](https://www.evaluar.com/) from Brazil 🇧🇷
+## Hi, I'm Cristian Fonseca, Lead Frontend Engineer at [Evaluar📈](https://www.evaluar.com/) from Brazil 🇧🇷
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **contact@cristianfonseca.dev** or **cfonsecacomas@gmail.com**
 - 📄 Know more [about me](https://www.cristianfonseca.dev/about)
